@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - :notebook: I’m currently a Queens College Student
 - 📫 To reach me, you could send email to Huangxcxc@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- 💞️ I’m looking forward to continous developing my coding skills
 
