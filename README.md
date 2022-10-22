@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - :notebook: I’m currently a Queens College Student
 - 😄 Pronouns: he/him/his
 - 💞️ I’m looking forward to continous developing my coding skills
-- :man_technologist: [Linkedin](https://www.google.com "My page")
-
-
+- :man_technologist: [Linkedin](https://www.linkedin.com/in/xingcheng-huang-1885a81b5/ "My page")
 
 
 
