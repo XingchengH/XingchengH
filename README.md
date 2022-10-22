@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 To reach me, you could send email to Huangxcxc@gmail.com
 - 😄 Pronouns: he/him/his
 - 💞️ I’m looking forward to continous developing my coding skills
-- [Linkedin](https://www.google.com "My page")
+- :man_technologist: [Linkedin](https://www.google.com "My page")
 
 
 
