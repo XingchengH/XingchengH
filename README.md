@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 - 📫 To reach me, you could send email to Huangxcxc@gmail.com
 -->
-- 👋 Hi, I'm Xingcheng Huang
+- 👋 Hi, I'm [Xingcheng Huang](https://xingchengh.github.io/Personal-Web/#home "Web")
 - :notebook: I’m currently a Queens College Student
 - 😄 Pronouns: he/him/his
 - 💞️ I’m looking forward to continous developing my coding skills
