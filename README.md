@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💞️ I’m looking forward to continous developing my coding skills
 - :man_technologist: [Linkedin](https://www.linkedin.com/in/xingcheng-huang-1885a81b5/ "My page"){:target="_blank"}
 
+[Click here to open the link in a new window](https://www.example.com){:target="_blank"}
 
 
