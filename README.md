@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Huangxcxc@gmail.com**
 
-- 🖐️:LinkedIn <a href="https://www.linkedin.com/in/xingcheng-huang-1885a81b5/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"   height="37" style="vertical-align:center; margin-left:5px"></a>
+- 🖐️ LinkedIn <a href="https://www.linkedin.com/in/xingcheng-huang-1885a81b5/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"   height="37" style="vertical-align:middle; margin-left:5px"></a>
 <p align="left">
 </p>
 
