@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Xingcheng Huang</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xingchengh&label=Profile%20views&color=0e75b6&style=flat" alt="xingchengh" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xingchengh&label=Profile%20views&color=0e75b6&style=flat" alt="xingchengh" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://xingchengh.github.io/Personal-Web/)
+
 - 📫 How to reach me **Huangxcxc@gmail.com**
+
 - 🖐️ LinkedIn <a href="https://www.linkedin.com/in/xingcheng-huang-1885a81b5/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"   height="37" style="vertical-align:middle; margin-left:5px"></a>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
