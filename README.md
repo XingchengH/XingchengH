@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Xingcheng Huang</h1>
-<h3 align="center">I’m currently a Queens College Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xingchengh&label=Profile%20views&color=0e75b6&style=flat" alt="xingchengh" /> </p>
 
